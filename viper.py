@@ -4,7 +4,6 @@ from turtle import *
 
 #---------poczatkowe zalozenia-------------
 """
-NIe użyłem funkcji z przykładu bo nie zrozumiałem jej dzialania 
 GRA jest sterowana strzałkami, konczy sie gdy dzdzownica wejdzie w siebie 
 uderzy w kamien lub wyjdzie poza pole gry. Plansza sklada sie z 5 typów obiektow:
 -puste pole "p"
